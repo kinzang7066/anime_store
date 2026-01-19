@@ -4,9 +4,8 @@ app = Flask(__name__)
 
 # Sample products
 products = [
-    {"name": "Naruto Figure", "price": "$25", "image": "https://i.imgur.com/abc123.png"},
-    {"name": "Sailor Moon Figure", "price": "$30", "image": "https://i.imgur.com/def456.png"},
-    {"name": "Demon Slayer Figure", "price": "$40", "image": "https://i.imgur.com/ghi789.png"}
+    {"name": "NaNa for Sale", "price": "$925", "image": "/static/images/nana.jpeg"},
+   
 ]
 
 # HTML Template
